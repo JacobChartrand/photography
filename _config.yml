@@ -57,5 +57,5 @@ _options:
     width: 2048
     height: 1365
     resize_style: "contain"
-    mime_type: "image/jpeg"
+    mime_type: "image/jpg"
     expandable: true
