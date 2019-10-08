@@ -1,12 +1,8 @@
 # ----
 # Site
 
-<<<<<<< HEAD
 title: Jacob Chartrand
-=======
-title: Aperture Template
->>>>>>> 01c696a9e32cd510f05cac44870084e31b00be89
-url: "https://cosmic-hippopotamus.cloudvent.net"
+url: ""
 baseurl:
 google_analytics_key:
 
@@ -36,11 +32,7 @@ defaults:
     values:
       layout: "default"
       text_width: true
-<<<<<<< HEAD
       image: /uploads/01.jpg
-=======
-      image: /uploads/1.jpg
->>>>>>> 01c696a9e32cd510f05cac44870084e31b00be89
   -
     scope:
       path: "index.html"
@@ -66,8 +58,4 @@ _options:
     height: 1365
     resize_style: "contain"
     mime_type: "image/jpeg"
-<<<<<<< HEAD
     expandable: true
-=======
-    expandable: true
->>>>>>> 01c696a9e32cd510f05cac44870084e31b00be89
