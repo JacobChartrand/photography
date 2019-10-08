@@ -1,14 +1,14 @@
 # ----
 # Site
 
-title: Jacob Chartrand Photography
+title: Jacob Chartrand
 url: ""
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Photography portfolio template for Jekyll.
+description: 
 author:
   name:
   email:
